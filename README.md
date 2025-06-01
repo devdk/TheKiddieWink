@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://thekiddiewink.com/thekiddiewink-kids-worksheet/" target="_blank">
-    <img src="assets/landing-page-preview.jpg" alt="Landing Page Preview" width="80%" />
+    <img src="https://img.shields.io/badge/🔗 Take a Look Live-Visit Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
