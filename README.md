@@ -1,65 +1,75 @@
-# 🚀 High-Converting Landing Page – WooCommerce + Elementor + Razorpay
+<h1 align="center">🚀 High-Converting Landing Page</h1>
 
-This is a custom landing page built using **WordPress**, **WooCommerce**, **Elementor**, and **Razorpay**—tailored for a niche eCommerce audience. The page was strategically designed to match user behavior and drive conversions.
-
----
-
-## 🎯 Goal
-
-> Build a high-performance, user-focused landing page that increases product sales.
+<p align="center">
+  Built with <strong>WordPress, WooCommerce, Elementor</strong> and <strong>Razorpay</strong>  
+  <br>
+  📈 <strong>+60% Sales Boost</strong> in First Month | 🛒 User-Behavior Driven Design
+</p>
 
 ---
 
-## 🔨 Tech Stack
+## 🔗 Live Preview
 
-- **CMS**: WordPress
-- **eCommerce**: WooCommerce
-- **Builder**: Elementor Pro
-- **Payments**: Razorpay Integration
-- **Analytics**: GA4 & Conversion Events
-
----
-
-## 🧠 Strategy & Features
-
-- 📊 **User behavior analysis**: Structured the content flow to match browsing habits of the niche
-- 🛒 **WooCommerce Optimization**: One-click checkout, product bundling, and urgency triggers
-- 🎨 **Custom UI**: Designed sections using Elementor for mobile-first responsiveness
-- 💳 **Razorpay**: Seamless UPI and card payments setup
-- ⚡ **Speed Optimized**: Used caching + image compression for fast loading
+<p align="center">
+  <a href="https://thekiddiewink.com/thekiddiewink-kids-worksheet/" target="_blank">
+    <img src="assets/landing-page-preview.jpg" alt="Landing Page Preview" width="80%" />
+  </a>
+</p>
 
 ---
 
-## 📈 Results
+## 🛠️ Tech Stack & Tools
 
-- 🚀 **+60% Sales Boost** in the first month after launch  
-- 📉 Reduced bounce rate by 30%  
-- 💬 Positive feedback from both users and stakeholders
-
----
-
-## 📸 Preview
-
-![Landing Page Preview](assets/landing-page-preview.jpg)  
-
+<p align="left">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay-1C1C1C?style=for-the-badge&logo=razorpay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GA4-F9AB00?style=for-the-badge&logo=google-analytics&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
-## 🔗 Live Demo
+## 📊 Results
 
-👉 [Visit Live Landing Page](https://thekiddiewink.com/thekiddiewink-kids-worksheet/)  
-
-
----
-
-## 💬 Let's Connect
-
-If you’re looking to build high-converting landing pages or optimize your WooCommerce store:
-
-📧 dheeraj@example.com  
-🌐 [dheerajdrive.com](https://dheerajdrive.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/dheerajheree/) · [Twitter](https://twitter.com/dheerajwp)
+- 🚀 **+60% increase in sales** within the first 30 days  
+- 🔍 Optimized for user behavior & mobile performance  
+- 💳 Seamless Razorpay checkout flow  
+- 💬 Positive feedback from both users & stakeholders  
+- ⚡ Reduced bounce rate by 30%
 
 ---
 
-*Thanks for checking it out!*
+## 🎯 Project Features
+
+- ✅ Elementor-based custom UI
+- ✅ WooCommerce checkout + product bundling
+- ✅ Razorpay UPI/Card integration
+- ✅ Fast-loading, mobile-optimized design
+- ✅ GA4 events and conversion tracking
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://dheerajdrive.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-dheerajdrive.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/dheerajheree/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dheeraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/dheerajwp" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@dheerajwp-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:okkdheeraj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-okkdheeraj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🙌 Thanks for visiting!
+
+If you like this, feel free to connect or discuss ideas. I'm always open to freelance opportunities & collaborations.
